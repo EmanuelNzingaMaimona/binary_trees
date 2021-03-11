@@ -1,6 +1,6 @@
 # C - Binary trees
 ***
-    _Resources_
+    __Resources__
 
     Binary tree (note the first line: Not to be confused with B-tree.)
     Data Structure and Algorithms - Tree
